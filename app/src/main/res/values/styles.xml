@@ -1,0 +1,98 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/app_background</item>
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
+        <item name="colorControlNormal">#c5c5c5</item>
+        <item name="colorControlActivated">@color/colorAccent</item>
+        <item name="colorControlHighlight">@color/colorAccent</item>
+        <!--<item name="android:textColorPrimary">@color/colorPrimaryText</item>-->
+        <!--<item name="android:textColorSecondary">@android:color/white</item>-->
+        <item name="android:statusBarColor">@color/colorBlack</item>
+        <item name="android:datePickerDialogTheme">@style/DatePickerStyle</item>
+        <item name="android:alertDialogTheme">@style/AlertDialogStyle</item>
+        <item name="android:buttonStyle">@style/CustomButton</item>
+    </style>
+
+    <style name="cardViewStyle" parent="CardView">
+        <item name="cardBackgroundColor">@color/colorPrimary</item>
+        <item name="cardCornerRadius">4dp</item>
+        <item name="cardElevation">2dp</item>
+    </style>
+
+    <style name="AlertDialogStyle" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowBackground">@color/colorPrimary</item>
+    </style>
+
+    <style name="DatePickerStyle" parent="Theme.AppCompat.Dialog">
+        <item name="android:datePickerStyle">@style/MyDatePickerStyle</item>
+        <item name="android:windowBackground">@color/colorPrimary</item>
+    </style>
+
+    <style name="ActionBarThemeOverlay" parent="">
+        <item name="android:textColorPrimary">@color/colorPrimaryText</item>
+    </style>
+
+    <style name="MyDatePickerStyle" parent="@android:style/Widget.Material.DatePicker">
+        <item name="android:headerBackground">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="HeaderBar">
+        <item name="android:background">@color/colorBlack</item>
+    </style>
+
+    <style name="ActionBarPopupThemeOverlay" parent="ThemeOverlay.AppCompat.Dark">
+        <item name="colorControlHighlight">@color/colorAccent</item>
+        <item name="android:backgroundTint">@color/colorPrimary</item>
+    </style>
+
+
+    <style name="AppThemeMediumFont" parent="AppTheme">
+        <item name="android:textSize">@dimen/medium_font_size</item>
+    </style>
+
+    <style name="AppThemeLargeFont" parent="AppTheme">
+        <item name="android:textSize">@dimen/large_font_size</item>
+    </style>
+
+    <!-- ToolBar -->
+    <style name="ToolBarStyleBackIcon" parent="Theme.AppCompat">
+        <item name="android:textColorPrimary">@color/colorPrimaryText</item>
+        <item name="android:textColorSecondary">@color/colorPrimaryText</item>
+        <item name="actionMenuTextColor">@color/colorPrimaryText</item>
+        <item name="android:homeAsUpIndicator">@drawable/ic_arrow_back_black_24px</item>
+    </style>
+
+    <style name="CustomDialog" parent="Theme.AppCompat.Dialog">
+        <item name="buttonStyle">@style/CustomButton</item>
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowBackground">@color/colorPrimary</item>
+        <item name="android:textColorPrimary">@color/colorPrimaryText</item>
+        <item name="colorControlHighlight">@color/colorAccent</item>
+        <item name="android:windowMinWidthMajor">@android:dimen/dialog_min_width_major</item>
+        <item name="android:windowMinWidthMinor">@android:dimen/dialog_min_width_minor</item>
+    </style>
+
+    <style name="CustomSpinnerStyle" parent="@style/Widget.AppCompat.Spinner">
+        <item name="android:background">@color/colorTransparent</item>
+        <item name="android:popupBackground">@color/colorPrimaryDark</item>
+        <item name="android:dropDownVerticalOffset">48dp</item>
+    </style>
+
+    <style name="FullScreenDialog" parent="Theme.AppCompat.Dialog">
+        <!-- Fill the screen -->
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+
+        <!-- No backgrounds, titles or window float -->
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+    </style>
+
+    <style name="CustomButton" parent="Widget.AppCompat.Button">
+        <item name="android:backgroundTint">@color/colorPrimaryDark</item>
+    </style>
+</resources>

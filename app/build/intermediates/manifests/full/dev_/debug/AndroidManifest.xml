@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="lt.sciil.eLPA.dev"
+    android:versionCode="40"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:name="lt.sciil.eLPA.App"
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_launcher_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppThemeMediumFont"
+        android:windowSoftInputMode="adjustPan" >
+        <activity
+            android:name="lt.sciil.eLPA.activity.login.LoginActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="lt.sciil.eLPA.activity.settings.SettingsActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="lt.sciil.eLPA.activity.auditList.AuditListActivity"
+            android:label="@string/title_activity_audit_list"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="lt.sciil.eLPA.activity.question.QuestionsActivity"
+            android:label="@string/title_activity_questions"
+            android:parentActivityName="lt.sciil.eLPA.activity.auditList.AuditListActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="lt.sciil.eLPA.activity.auditList.AuditListActivity" />
+        </activity>
+
+        <service
+            android:name="lt.sciil.eLPA.service.SaveAuditService"
+            android:icon="@mipmap/ic_launcher"
+            android:label="@string/save_audit_service" />
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="lt.sciil.eLPA.dev.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="5ebbace661bdefb67c915aa242c70eef18d761a3" />
+    </application>
+
+</manifest>

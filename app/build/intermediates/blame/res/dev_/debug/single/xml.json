@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\xml\\file_paths.xml",
+        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\xml\\values_to_translate.xml",
+        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\xml\\values_to_translate.xml"
+    }
+]

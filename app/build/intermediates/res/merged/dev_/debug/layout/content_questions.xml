@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_questions"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/app_background"
+    android:paddingTop="8dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="lt.sciil.eLPA.activity.question.QuestionsActivity"
+    tools:showIn="@layout/app_bar_questions">
+
+    <lt.sciil.eLPA.adapter.CustomViewPager
+        android:id="@+id/vpPager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/navigationButtonsLayout"/>
+
+    <LinearLayout
+        android:id="@+id/navigationButtonsLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:orientation="horizontal"
+        android:paddingBottom="@dimen/input_padding"
+        android:weightSum="5">
+
+        <Button
+            android:id="@+id/firstQuestionButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/selectable_item_background"
+            android:text="@string/firstQuestion"
+            android:textSize="@dimen/large_font_size" />
+
+        <Button
+            android:id="@+id/previousQuestionButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/selectable_item_background"
+            android:text="@string/previous_question"
+            android:textSize="@dimen/large_font_size" />
+
+        <TextView
+            android:id="@+id/questionNumber"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="1"
+            android:textColor="@color/colorPrimaryText"
+            android:textSize="@dimen/large_font_size" />
+
+        <Button
+            android:id="@+id/nextQuestionButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/selectable_item_background"
+            android:text="@string/next_question"
+            android:textSize="@dimen/large_font_size" />
+
+        <Button
+            android:id="@+id/lastQuestionButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/selectable_item_background"
+            android:text="@string/last_question"
+            android:textSize="@dimen/large_font_size" />
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\af8607f018e585973a67df2a90c62b7b9ef905c9\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\af8607f018e585973a67df2a90c62b7b9ef905c9\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\af8607f018e585973a67df2a90c62b7b9ef905c9\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\af8607f018e585973a67df2a90c62b7b9ef905c9\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    }
+]

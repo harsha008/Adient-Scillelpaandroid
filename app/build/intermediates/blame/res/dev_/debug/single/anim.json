@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\af8607f018e585973a67df2a90c62b7b9ef905c9\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\af8607f018e585973a67df2a90c62b7b9ef905c9\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\af8607f018e585973a67df2a90c62b7b9ef905c9\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\af8607f018e585973a67df2a90c62b7b9ef905c9\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\anim\\abc_fade_in.xml"
+    }
+]

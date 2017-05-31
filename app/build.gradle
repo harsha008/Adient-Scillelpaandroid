@@ -1,0 +1,111 @@
+apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '25.0.2'
+    def appName = "SCIIL"
+    compileOptions.incremental = false
+    defaultConfig {
+        applicationId "lt.sciil.eLPA"
+        minSdkVersion 21
+        targetSdkVersion 25
+        versionCode 40
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        jackOptions {
+            enabled true
+        }
+    }
+
+    productFlavors {
+        dev_ {
+            resValue "string", "app_launcher_name", "SCIIL eLPA Dev"
+            applicationIdSuffix "dev"
+            manifestPlaceholders = [
+                    appIcon: "@mipmap/ic_launcher"
+            ]
+        }
+        prod_ {
+            resValue "string", "app_launcher_name", "SCIIL eLPA"
+            manifestPlaceholders = [
+                    appIcon: "@mipmap/ic_launcher"
+            ]
+        }
+        adient_ {
+            resValue "string", "app_launcher_name", "SCIIL eLPA"
+            manifestPlaceholders = [
+                    appIcon: "@mipmap/ic_launcher_adient"
+            ]
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/license.txt'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/notice.txt'
+        exclude 'META-INF/ASL2.0'
+        exclude 'META-INF/rxjava.properties'
+    }
+
+    android.applicationVariants.all { variant ->
+        def File outputFile = variant.outputs.get(0).outputFile;
+        def String parent = outputFile.parent;
+        for (File f : new File(parent).listFiles()) {
+            f.delete();
+        }
+        def String apkName = variant.flavorName + appName;
+        def String build = variant.buildType.name.replace("debug", "_debug_").replace("develop", "_develop_").replace("release", "_");
+        def String apkVersion = "_" + versionName + build;
+        def String apkDate = new Date().format('yyyyMMdd');
+        variant.outputs.get(0).outputFile = new File(parent, apkName + apkVersion + apkDate + ".apk");
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    testCompile 'org.mockito:mockito-core:2.7.6'
+    testCompile "org.robolectric:robolectric:3.2.2"
+    testCompile 'junit:junit:4.12'
+    compile('com.crashlytics.sdk.android:crashlytics:2.6.6@aar') {
+        transitive = true;
+    }
+    compile 'com.squareup.retrofit2:retrofit:2.1.0'
+    compile 'com.squareup.retrofit2:converter-gson:2.1.0'
+    compile 'com.jakewharton.retrofit:retrofit2-rxjava2-adapter:1.0.0'
+    compile 'com.android.support:design:25.3.1'
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support:recyclerview-v7:25.3.1'
+    compile 'com.google.code.gson:gson:2.8.0'
+    compile 'com.android.support:support-v4:25.3.1'
+    compile 'com.j256.ormlite:ormlite-android:5.0'
+    compile 'io.reactivex.rxjava2:rxjava:2.0.5'
+    compile 'io.reactivex.rxjava2:rxandroid:2.0.1'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.squareup.okhttp3:okhttp:3.4.2'
+    compile 'org.greenrobot:eventbus:3.0.0'
+    compile 'com.android.support:cardview-v7:25.3.1'
+    compile 'com.jakewharton:butterknife:8.5.1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
+    compile 'com.google.dagger:dagger:2.9'
+    annotationProcessor 'com.google.dagger:dagger-compiler:2.9'
+    compile 'com.github.chrisbanes:PhotoView:1.3.1'
+
+}

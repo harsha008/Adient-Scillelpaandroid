@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable-xhdpi\\checked.png",
+        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable-xhdpi\\checked.png"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable-xhdpi\\refresh.png",
+        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable-xhdpi\\refresh.png"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable-xhdpi\\arrow_down.png",
+        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable-xhdpi\\arrow_down.png"
+    },
+    {
+        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable-xhdpi\\unchecked.png",
+        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable-xhdpi\\unchecked.png"
+    }
+]

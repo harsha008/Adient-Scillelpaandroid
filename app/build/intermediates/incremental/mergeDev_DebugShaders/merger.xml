@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\@DEV\Mobile\sciil-elpa\app\src\main\shaders"/></dataSet><dataSet config="dev_"><source path="D:\@DEV\Mobile\sciil-elpa\app\src\dev_\shaders"/></dataSet><dataSet config="debug"><source path="D:\@DEV\Mobile\sciil-elpa\app\src\debug\shaders"/></dataSet><dataSet config="dev_Debug"><source path="D:\@DEV\Mobile\sciil-elpa\app\src\dev_Debug\shaders"/></dataSet></merger>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "255510425491",
+    "firebase_url": "https://scilltest.firebaseio.com",
+    "project_id": "scilltest",
+    "storage_bucket": "scilltest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255510425491:android:fe0f3c6734ecc1f5",
+        "android_client_info": {
+          "package_name": "lt.sciil.elpa.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255510425491-c02t4jr53rt5ngci8bhi1qq9omfsd0q7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lt.sciil.elpa.dev",
+            "certificate_hash": "D4601603C25197AF7FD6C09DAA38A487982AD375"
+          }
+        },
+        {
+          "client_id": "255510425491-dvbm80fi8hapcmij20jemkmsef8klk9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqAxvO6IAl9ea0pW2kOngW9ioI1nsAW6M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255510425491-dvbm80fi8hapcmij20jemkmsef8klk9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
