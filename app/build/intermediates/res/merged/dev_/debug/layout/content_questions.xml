@@ -8,10 +8,10 @@
     android:background="@drawable/app_background"
     android:paddingTop="8dp"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="lt.sciil.eLPA.activity.question.QuestionsActivity"
+    tools:context="lt.adient.eLPA.activity.question.QuestionsActivity"
     tools:showIn="@layout/app_bar_questions">
 
-    <lt.sciil.eLPA.adapter.CustomViewPager
+    <lt.adient.eLPA.adapter.CustomViewPager
         android:id="@+id/vpPager"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

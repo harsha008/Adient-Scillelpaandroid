@@ -19,6 +19,11 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"共有"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%sと共有"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string name="next_time">次回</string>
     <string msgid="146198913615257606" name="search_menu_title">"検索"</string>
+    <string name="skip_this_version">このバージョンをスキップ</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="update">更新</string>
+    <string formatted="false" name="update_alert_message">%sの新規バージョンがご利用になれます。今すぐバージョン%sに更新してください。</string>
+    <string name="update_available">更新が利用可能</string>
 </resources>

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\incremental\\mergeDev_DebugResources\\merged.dir\\values-v16\\values-v16.xml",
+        "outputFile": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/incremental/mergeDev_DebugResources/merged.dir/values-v16/values-v16.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 116
                 },
                 "from": {
-                    "file": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\values-v16\\values-v16.xml",
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-v16/values-v16.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
