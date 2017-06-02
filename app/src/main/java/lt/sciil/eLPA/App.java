@@ -43,9 +43,9 @@ public class App extends Application {
                 .build();
 
         //Adient fixed url
-        if (BuildConfig.FLAVOR.equals("adient_")) {
+        //if (BuildConfig.FLAVOR.equals("adient_")) {
             applicationComponent.getPrefManager().setProfileServerUrl(adientServerUrl);
-        }
+       // }
 
         Fabric.with(this, new Crashlytics());
 
