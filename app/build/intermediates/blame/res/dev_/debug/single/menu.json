@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/menu/menu_audit_list.xml",
+        "source": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/src/main/res/menu/menu_audit_list.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/menu/questions.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/menu/questions.xml"
+    },
+    {
+        "merged": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/menu/menu_login.xml",
+        "source": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/src/main/res/menu/menu_login.xml"
+    },
+    {
+        "merged": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/menu/questions.xml",
+        "source": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/src/main/res/menu/questions.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/menu/menu_audit_list.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/menu/menu_audit_list.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/menu/menu_login.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/menu/menu_login.xml"
+    }
+]

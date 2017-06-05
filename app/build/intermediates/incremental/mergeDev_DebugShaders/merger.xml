@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/pgits/Downloads/Adient-eLPAAndroid/app/src/main/shaders"/></dataSet><dataSet config="dev_"><source path="/Users/pgits/Downloads/Adient-eLPAAndroid/app/src/dev_/shaders"/></dataSet><dataSet config="debug"><source path="/Users/pgits/Downloads/Adient-eLPAAndroid/app/src/debug/shaders"/></dataSet><dataSet config="dev_Debug"><source path="/Users/pgits/Downloads/Adient-eLPAAndroid/app/src/dev_Debug/shaders"/></dataSet></merger>

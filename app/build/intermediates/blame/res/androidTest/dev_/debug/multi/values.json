@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/build/intermediates/incremental/mergeDev_DebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/build/generated/res/resValues/androidTest/dev_/debug/values/generated.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 76,
+                        "endOffset": 232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 132,
+                    "endColumn": 45,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "/Users/pgits/.android/build-cache/7e72172dbe3ae319faa9732863b9d9fe0d0d83a6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/incremental/mergeDev_DebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/generated/res/resValues/androidTest/dev_/debug/values/generated.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 76,
+                        "endOffset": 232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 132,
+                    "endColumn": 45,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/.android/build-cache/e473efcbfe970e2590e1c4a813e43c1517a95d4d/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

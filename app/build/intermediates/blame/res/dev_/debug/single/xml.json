@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/xml/file_paths.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/xml/file_paths.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/xml/values_to_translate.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/xml/values_to_translate.xml"
+    },
+    {
+        "merged": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/xml/file_paths.xml",
+        "source": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/src/main/res/xml/file_paths.xml"
+    },
+    {
+        "merged": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/xml/values_to_translate.xml",
+        "source": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/src/main/res/xml/values_to_translate.xml"
+    }
+]

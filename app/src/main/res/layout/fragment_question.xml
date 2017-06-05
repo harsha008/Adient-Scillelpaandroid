@@ -1,0 +1,250 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clipToPadding="false"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin">
+
+        <LinearLayout
+            android:id="@+id/tittleLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:animateLayoutChanges="true"
+            android:clickable="true"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/chaperTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:text="Chapter title"
+                android:textAlignment="viewStart"
+                android:textColor="@color/colorPrimaryText"
+                android:textSize="@dimen/small_font_size" />
+
+            <TextView
+                android:id="@+id/questionTittle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:text="Question tittle long long long long long long long long long long "
+                android:textAlignment="center"
+                android:textColor="@color/colorPrimaryText"
+                android:textSize="24sp"/>
+
+            <ImageView
+                android:id="@+id/expandArrow"
+                android:layout_width="match_parent"
+                android:layout_height="24dp"
+                android:tint="@color/colorAccent"
+                app:srcCompat="@drawable/arrow_down" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal"
+            android:padding="5dp"
+            android:weightSum="2">
+
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginEnd="4dp"
+                android:layout_weight="1">
+
+                <ImageView
+                    android:id="@+id/questionImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:background="@color/colorTransparent" />
+
+                <ProgressBar
+                    android:id="@+id/questionProgressBar"
+                    style="?android:attr/progressBarStyleLarge"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="4dp"
+                android:layout_weight="1">
+
+                <ImageView
+                    android:id="@+id/userImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:background="@color/colorTransparent" />
+
+                <ProgressBar
+                    android:id="@+id/userProgressBar"
+                    style="?android:attr/progressBarStyleLarge"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center" />
+            </FrameLayout>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/question_buttons_linear_layout"
+            android:layout_width="match_parent"
+            android:layout_height="72dp"
+            android:animateLayoutChanges="true"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+            <LinearLayout
+                android:id="@+id/ok_button_layout"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clickable="true">
+
+                <ImageView
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/ok" />
+
+                <Button
+                    android:id="@+id/ok_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@null"
+                    android:clickable="false"
+                    android:gravity="center_vertical"
+                    android:tag="ok"
+                    android:text="@string/ok"
+                    android:textColor="@color/colorPrimaryText" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/nok_button_layout"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clickable="true">
+
+                <ImageView
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/cancel" />
+
+                <Button
+                    android:id="@+id/nok_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@null"
+                    android:clickable="false"
+                    android:gravity="center_vertical"
+                    android:tag="nok"
+                    android:text="@string/nok"
+                    android:textColor="@color/colorPrimaryText" />
+
+            </LinearLayout>
+
+            <!--<LinearLayout-->
+            <!--android:id="@+id/camera_button_layout"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:layout_weight="1"-->
+            <!--android:clickable="true">-->
+
+            <!--<ImageView-->
+            <!--android:layout_width="48dp"-->
+            <!--android:layout_height="48dp"-->
+            <!--android:layout_gravity="center_vertical"-->
+            <!--android:src="@drawable/camera" />-->
+
+            <!--<Button-->
+            <!--android:id="@+id/camera_button"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:background="@null"-->
+            <!--android:clickable="false"-->
+            <!--android:gravity="center_vertical"-->
+            <!--android:text="@string/photo"-->
+            <!--android:textColor="@color/colorPrimaryText" />-->
+
+            <!--</LinearLayout>-->
+
+            <LinearLayout
+                android:id="@+id/fix_button_layout"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:clickable="true"
+                android:visibility="gone">
+
+                <ImageView
+                    android:id="@+id/fix_button_image"
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/bandage_64px" />
+
+                <Button
+                    android:id="@+id/fix_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@null"
+                    android:clickable="false"
+                    android:gravity="center_vertical"
+                    android:tag="fixed"
+                    android:text="@string/fixed"
+                    android:textColor="@color/colorPrimaryText" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/questionEditText"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/colorTransparent"
+            android:gravity="top|left"
+            android:hint="@string/question_edit_text_hint"
+            android:imeOptions="flagNoExtractUi"
+            android:inputType="textMultiLine"
+            android:isScrollContainer="true"
+            android:lines="8"
+            android:maxLines="8"
+            android:minHeight="100dp"
+            android:minLines="5"
+            android:paddingEnd="8dp"
+            android:paddingStart="8dp"
+            android:paddingTop="4dp"
+            android:scrollbars="vertical"
+            android:tag="question_edit_text_hint"
+            android:textColor="@color/colorPrimaryText"
+            android:textColorHint="@color/colorInputInactive" />
+
+    </LinearLayout>
+
+
+</ScrollView>

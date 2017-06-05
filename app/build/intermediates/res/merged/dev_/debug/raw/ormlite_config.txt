@@ -1,0 +1,182 @@
+# --table-start--
+dataClass=lt.sciil.eLPA.database.model.Audit
+tableName=audit
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=Planned
+# --field-end--
+# --field-start--
+fieldName=User
+# --field-end--
+# --field-start--
+fieldName=Machine
+# --field-end--
+# --field-start--
+fieldName=AuditStatus
+# --field-end--
+# --field-start--
+fieldName=IDLPAAudit
+# --field-end--
+# --field-start--
+fieldName=Started
+# --field-end--
+# --field-start--
+fieldName=StartedBy
+# --field-end--
+# --field-start--
+fieldName=Layer
+# --field-end--
+# --field-start--
+fieldName=needsSaving
+# --field-end--
+# --field-start--
+fieldName=allPhotosUploaded
+# --field-end--
+# --table-fields-end--
+# --table-end--
+
+tableName=user
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=FirstName
+# --field-end--
+# --field-start--
+fieldName=IDLge
+# --field-end--
+# --field-start--
+fieldName=IDUser
+# --field-end--
+# --field-start--
+fieldName=LastName
+# --field-end--
+# --field-start--
+fieldName=UserID
+# --field-end--
+# --table-fields-end--
+# --table-end--
+
+tableName=workstation
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=IDDoc
+# --field-end--
+# --field-start--
+fieldName=IDMachine
+# --field-end--
+# --field-start--
+fieldName=MachineDesc
+# --field-end--
+# --field-start--
+fieldName=MachineID
+# --field-end--
+# --table-fields-end--
+# --table-end--
+
+tableName=chapter
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=ChapterDesc
+# --field-end--
+# --field-start--
+fieldName=ChapterID
+# --field-end--
+# --field-start--
+fieldName=IDChapter
+# --field-end--
+# --field-start--
+fieldName=Info1
+# --field-end--
+# --field-start--
+fieldName=IDQuestion
+# --field-end--
+# --table-fields-end--
+# --table-end--
+
+tableName=question
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=IDLPAAudit
+# --field-end--
+# --field-start--
+fieldName=questionItemId
+# --field-end--
+# --field-start--
+fieldName=IDDoc
+# --field-end--
+# --field-start--
+fieldName=IDParentQuestion
+# --field-end--
+# --field-start--
+fieldName=IDQuestion
+# --field-end--
+# --field-start--
+fieldName=Info1
+# --field-end--
+# --field-start--
+fieldName=QuestionDesc
+# --field-end--
+# --field-start--
+fieldName=QuestionID
+# --field-end--
+# --table-fields-end--
+# --table-end--
+
+tableName=answer
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=Answered
+# --field-end--
+# --field-start--
+fieldName=Closed
+# --field-end--
+# --field-start--
+fieldName=IDAnsweredBy
+# --field-end--
+# --field-start--
+fieldName=IDDoc
+# --field-end--
+# --field-start--
+fieldName=IDLPAAudit
+# --field-end--
+# --field-start--
+fieldName=Info1
+# --field-end--
+# --field-start--
+fieldName=NotOk
+# --field-end--
+# --field-start--
+fieldName=Ok
+# --field-end--
+# --field-start--
+fieldName=IDQuestion
+# --field-end--
+# --field-start--
+fieldName=NameDoc
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################

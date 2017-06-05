@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/horizontal_card_margin"
+    android:backgroundTint="@color/colorPrimary"
+    android:clickable="true"
+    android:focusable="false"
+    android:foreground="@drawable/selectable_item_background"
+    app:cardCornerRadius="4dp"
+    app:cardElevation="2dp">
+
+    <LinearLayout
+        android:id="@+id/linear_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:baselineAligned="true"
+        android:orientation="horizontal"
+        android:weightSum="8">
+
+        <LinearLayout
+            android:id="@+id/data_layout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/user_linear_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingStart="@dimen/activity_horizontal_margin"
+                android:paddingTop="16dp">
+
+                <TextView
+                    android:id="@+id/userLabel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:tag="user_audit_list_item"
+                    android:text="@string/user_audit_list_item"
+                    android:textColor="@color/colorPrimaryText" />
+
+                <TextView
+                    android:id="@+id/user_textView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingStart="4dp"
+                    android:text="erfohaserluearifhaeifhaefuheasrfesarf"
+                    android:textColor="@color/colorPrimaryText" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingStart="@dimen/activity_horizontal_margin"
+                android:paddingTop="4dp">
+
+                <TextView
+                    android:id="@+id/workstationLabel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:tag="workstation_audit_list_item"
+                    android:text="@string/workstation_audit_list_item"
+                    android:textColor="@color/colorPrimaryText" />
+
+                <TextView
+                    android:id="@+id/workstation_textView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingStart="4dp"
+                    android:text="Edison"
+                    android:textColor="@color/colorPrimaryText" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingBottom="16dp"
+                android:paddingStart="@dimen/activity_horizontal_margin"
+                android:paddingTop="4dp">
+
+                <TextView
+                    android:id="@+id/plannedDateLabel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:tag="planned_audit_list_item"
+                    android:text="@string/planned_audit_list_item"
+                    android:textColor="@color/colorPrimaryText" />
+
+                <TextView
+                    android:id="@+id/date_textView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingStart="4dp"
+                    android:textColor="@color/colorPrimaryText" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3">
+
+            <TextView
+                android:id="@+id/status_text_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:tag="status_not_finished"
+                android:text="@string/status_not_finished"
+                android:textAlignment="center"
+                android:textColor="@color/colorAccent" />
+
+            <ImageView
+                android:id="@+id/circle_image_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginBottom="14dp"
+                android:background="@drawable/circle"
+                android:contentDescription="@string/status_circle" />
+        </FrameLayout>
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

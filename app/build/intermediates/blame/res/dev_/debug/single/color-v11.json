@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/pgits/.android/build-cache/f376ae9c12fb5665a33e7b2916fec5c73c1a14da/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/pgits/.android/build-cache/f376ae9c12fb5665a33e7b2916fec5c73c1a14da/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

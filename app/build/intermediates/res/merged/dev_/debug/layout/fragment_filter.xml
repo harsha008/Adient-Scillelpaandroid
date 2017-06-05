@@ -1,0 +1,171 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:paddingEnd="24dp"
+              android:paddingStart="24dp">
+
+    <TextView
+        android:id="@+id/userLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_marginTop="16dp"
+        android:tag="user"
+        android:text="@string/user"
+        android:textColor="@color/colorPrimaryText"
+        android:textSize="18sp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:weightSum="6">
+
+        <Spinner
+            android:id="@+id/spinner_user"
+            style="@style/CustomSpinnerStyle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="5"/>
+
+        <ImageView
+            android:id="@+id/clear_user_image_view"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/colorTransparent"
+            android:contentDescription="@string/clear"
+            android:src="@drawable/delete"/>
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/workstationLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_marginTop="16dp"
+        android:tag="machine"
+        android:text="@string/machine"
+        android:textColor="@color/colorPrimaryText"
+        android:textSize="18sp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:weightSum="6">
+
+        <AutoCompleteTextView
+            android:id="@+id/spinner_work_station"
+            style="@style/CustomSpinnerStyle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            android:paddingEnd="@dimen/input_padding"
+            android:paddingStart="@dimen/input_padding"/>
+
+        <ImageView
+            android:id="@+id/clear_workstation_image_view"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/colorTransparent"
+            android:contentDescription="@string/clear"
+            android:src="@drawable/delete"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/fromLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center_vertical"
+        android:tag="from"
+        android:text="@string/from"
+        android:textColor="@color/colorPrimaryText"
+        android:textSize="18sp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:orientation="horizontal"
+        android:weightSum="6">
+
+        <EditText
+            android:id="@+id/fromDateEditText"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            android:background="@color/colorTransparent"
+            android:focusable="false"
+            android:hint="@string/from_date"
+            android:paddingEnd="@dimen/input_padding"
+            android:paddingStart="@dimen/input_padding"
+            android:tag="from_date"/>
+
+        <ImageView
+            android:id="@+id/clear_from_date_image_view"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/colorTransparent"
+            android:contentDescription="@string/clear"
+            android:src="@drawable/delete"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/toLabel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center_vertical"
+        android:tag="to"
+        android:text="@string/to"
+        android:textColor="@color/colorPrimaryText"
+        android:textSize="18sp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginBottom="16dp"
+        android:orientation="horizontal"
+        android:weightSum="6">
+
+        <EditText
+            android:id="@+id/toDateEditText"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            android:background="@color/colorTransparent"
+            android:focusable="false"
+            android:hint="@string/to_date"
+            android:paddingEnd="@dimen/input_padding"
+            android:paddingStart="@dimen/input_padding"
+            android:tag="to_date"/>
+
+        <ImageView
+            android:id="@+id/clear_to_date_image_view"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_weight="1"
+            android:background="@color/colorTransparent"
+            android:contentDescription="@string/clear"
+            android:src="@drawable/delete"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/filterButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_marginBottom="16dp"
+        android:tag="filter"
+        android:text="@string/filter"/>
+
+
+</LinearLayout>

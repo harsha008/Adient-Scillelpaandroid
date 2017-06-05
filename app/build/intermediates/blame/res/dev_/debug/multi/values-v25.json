@@ -1,0 +1,172 @@
+[
+    {
+        "outputFile": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/incremental/mergeDev_DebugResources/merged.dir/values-v25/values-v25.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 70,
+                    "endOffset": 121
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-v25/values-v25.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 70,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 126,
+                    "endColumn": 82,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-v25/values-v25.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 82,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 303
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-v25/values-v25.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 308,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 414
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-v25/values-v25.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 308,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 414
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/build/intermediates/incremental/mergeDev_DebugResources/merged.dir/values-v25/values-v25.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 70,
+                    "endOffset": 121
+                },
+                "from": {
+                    "file": "/Users/pgits/.android/build-cache/f376ae9c12fb5665a33e7b2916fec5c73c1a14da/output/res/values-v25/values-v25.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 70,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 126,
+                    "endColumn": 82,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "/Users/pgits/.android/build-cache/f376ae9c12fb5665a33e7b2916fec5c73c1a14da/output/res/values-v25/values-v25.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 82,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 303
+                },
+                "from": {
+                    "file": "/Users/pgits/.android/build-cache/f376ae9c12fb5665a33e7b2916fec5c73c1a14da/output/res/values-v25/values-v25.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 308,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 414
+                },
+                "from": {
+                    "file": "/Users/pgits/.android/build-cache/f376ae9c12fb5665a33e7b2916fec5c73c1a14da/output/res/values-v25/values-v25.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 308,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 414
+                    }
+                }
+            }
+        ]
+    }
+]

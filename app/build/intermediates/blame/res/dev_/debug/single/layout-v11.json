@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/pgits/.android/build-cache/f376ae9c12fb5665a33e7b2916fec5c73c1a14da/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/pgits/.android/build-cache/f376ae9c12fb5665a33e7b2916fec5c73c1a14da/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/pgits/.android/build-cache/f376ae9c12fb5665a33e7b2916fec5c73c1a14da/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/pgits/.android/build-cache/f376ae9c12fb5665a33e7b2916fec5c73c1a14da/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/pgits/.android/build-cache/f376ae9c12fb5665a33e7b2916fec5c73c1a14da/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/pgits/.android/build-cache/f376ae9c12fb5665a33e7b2916fec5c73c1a14da/output/res/layout-v11/notification_template_big_media.xml"
+    }
+]

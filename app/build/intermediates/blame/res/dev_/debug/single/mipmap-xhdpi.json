@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/mipmap-xhdpi/ic_launcher_adient.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/mipmap-xhdpi/ic_launcher_adient.png"
+    },
+    {
+        "merged": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/mipmap-xhdpi/ic_launcher_adient.png",
+        "source": "/Users/pgits/Downloads/Adient-eLPAAndroid/app/src/main/res/mipmap-xhdpi/ic_launcher_adient.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]
