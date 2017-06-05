@@ -87,9 +87,9 @@ public class SettingsActivity extends MvpActivity<SettingsView, SettingsPresente
         getInjector().inject(this);
         getPresenter().attachView(this);
 
-        if (BuildConfig.FLAVOR.equals("adient_")) {
+        //if (BuildConfig.FLAVOR.equals("adient_")) {
             serverUrl.setEnabled(false);
-        }
+        //}
 
         moduleAdapter = new ArrayAdapter<>(this, R.layout.spinner_dropdown_item, getPresenter().getModuleList());
         profileAutocomplete.setThreshold(1);
