@@ -631,7 +631,7 @@
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="clear">Clear</string>
     <string name="close_app">Close app</string>
-    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">b0397f40-fcbd-4a25-b820-4d308ba90c6a</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">91cfeecb-89b0-4fe3-bf01-63375a15137b</string>
     <string name="connection_error">Connection error</string>
     <string name="could_not_download_profiles">Could not download profiles</string>
     <string name="could_not_load_audit">Could not load audit</string>
