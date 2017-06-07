@@ -1,0 +1,4 @@
+#Tue Jun 06 16:44:08 EDT 2017
+base.0=/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/transforms/jack/dev_/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/transforms/jack/dev_/debug/folders/1000/1f/main/classes.dex

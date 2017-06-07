@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="lt.sciil.eLPA">
+          package="lt.adient.mobility.eLPA">
 
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
@@ -9,7 +9,7 @@
     <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
 
     <application
-        android:name="lt.sciil.eLPA.App"
+        android:name="lt.adient.mobility.eLPA.App"
         android:allowBackup="false"
         android:icon="${appIcon}"
         android:label="@string/app_launcher_name"
@@ -17,7 +17,7 @@
         android:theme="@style/AppThemeMediumFont"
         android:windowSoftInputMode="adjustPan">
         <activity
-            android:name="lt.sciil.eLPA.activity.login.LoginActivity"
+            android:name="lt.adient.mobility.eLPA.activity.login.LoginActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -25,25 +25,25 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="lt.sciil.eLPA.activity.settings.SettingsActivity"
+            android:name="lt.adient.mobility.eLPA.activity.settings.SettingsActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden"/>
         <activity
-            android:name="lt.sciil.eLPA.activity.auditList.AuditListActivity"
+            android:name="lt.adient.mobility.eLPA.activity.auditList.AuditListActivity"
             android:label="@string/title_activity_audit_list"
             android:screenOrientation="portrait"/>
         <activity
-            android:name="lt.sciil.eLPA.activity.question.QuestionsActivity"
+            android:name="lt.adient.mobility.eLPA.activity.question.QuestionsActivity"
             android:label="@string/title_activity_questions"
-            android:parentActivityName="lt.sciil.eLPA.activity.auditList.AuditListActivity"
+            android:parentActivityName="lt.adient.mobility.eLPA.activity.auditList.AuditListActivity"
             android:screenOrientation="portrait">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="lt.sciil.eLPA.activity.auditList.AuditListActivity"/>
+                android:value="lt.adient.mobility.eLPA.activity.auditList.AuditListActivity"/>
         </activity>
 
         <service
-            android:name="lt.sciil.eLPA.service.SaveAuditService"
+            android:name="lt.adient.mobility.eLPA.service.SaveAuditService"
             android:icon="${appIcon}"
             android:label="@string/save_audit_service"/>
         <provider
@@ -57,7 +57,7 @@
         </provider>
         <meta-data
             android:name="io.fabric.ApiKey"
-            android:value="5ebbace661bdefb67c915aa242c70eef18d761a3"/>
+            android:value="577349ae8f71d96b38f9cbf4ed607ff4ef80b355" />
     </application>
 
 </manifest>

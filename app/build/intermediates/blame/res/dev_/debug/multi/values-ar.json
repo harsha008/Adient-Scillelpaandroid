@@ -1,17 +1,17 @@
 [
     {
-        "outputFile": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\incremental\\mergeDev_DebugResources\\merged.dir\\values-ar\\values-ar.xml",
+        "outputFile": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/incremental/mergeDev_DebugResources/merged.dir/values-ar/values-ar.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 55,
+                    "startOffset": 100,
                     "endColumn": 116,
-                    "endOffset": 167
+                    "endOffset": 212
                 },
                 "from": {
-                    "file": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\values-ar\\values-ar.xml",
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -25,12 +25,12 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 172,
+                    "startOffset": 217,
                     "endColumn": 107,
-                    "endOffset": 275
+                    "endOffset": 320
                 },
                 "from": {
-                    "file": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\values-ar\\values-ar.xml",
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -44,12 +44,12 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 280,
+                    "startOffset": 325,
                     "endColumn": 122,
-                    "endOffset": 398
+                    "endOffset": 443
                 },
                 "from": {
-                    "file": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\values-ar\\values-ar.xml",
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -63,12 +63,12 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 403,
+                    "startOffset": 448,
                     "endColumn": 103,
-                    "endOffset": 502
+                    "endOffset": 547
                 },
                 "from": {
-                    "file": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\values-ar\\values-ar.xml",
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -82,12 +82,12 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 507,
+                    "startOffset": 552,
                     "endColumn": 108,
-                    "endOffset": 611
+                    "endOffset": 656
                 },
                 "from": {
-                    "file": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\values-ar\\values-ar.xml",
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -101,12 +101,12 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 616,
+                    "startOffset": 661,
                     "endColumn": 81,
-                    "endOffset": 693
+                    "endOffset": 738
                 },
                 "from": {
-                    "file": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\values-ar\\values-ar.xml",
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -120,12 +120,12 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 698,
+                    "startOffset": 743,
                     "endColumn": 100,
-                    "endOffset": 794
+                    "endOffset": 839
                 },
                 "from": {
-                    "file": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\values-ar\\values-ar.xml",
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -139,12 +139,12 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 799,
+                    "startOffset": 844,
                     "endColumn": 113,
-                    "endOffset": 908
+                    "endOffset": 953
                 },
                 "from": {
-                    "file": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\values-ar\\values-ar.xml",
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -158,12 +158,12 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 913,
+                    "startOffset": 958,
                     "endColumn": 78,
-                    "endOffset": 987
+                    "endOffset": 1032
                 },
                 "from": {
-                    "file": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\values-ar\\values-ar.xml",
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -177,12 +177,12 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 992,
+                    "startOffset": 1037,
                     "endColumn": 78,
-                    "endOffset": 1066
+                    "endOffset": 1111
                 },
                 "from": {
-                    "file": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\values-ar\\values-ar.xml",
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -196,12 +196,12 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1071,
+                    "startOffset": 1116,
                     "endColumn": 78,
-                    "endOffset": 1145
+                    "endOffset": 1190
                 },
                 "from": {
-                    "file": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\values-ar\\values-ar.xml",
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -215,12 +215,12 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1150,
+                    "startOffset": 1195,
                     "endColumn": 104,
-                    "endOffset": 1250
+                    "endOffset": 1295
                 },
                 "from": {
-                    "file": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\values-ar\\values-ar.xml",
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -234,12 +234,12 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1255,
+                    "startOffset": 1300,
                     "endColumn": 100,
-                    "endOffset": 1351
+                    "endOffset": 1396
                 },
                 "from": {
-                    "file": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\values-ar\\values-ar.xml",
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -253,12 +253,12 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1356,
+                    "startOffset": 1401,
                     "endColumn": 95,
-                    "endOffset": 1447
+                    "endOffset": 1492
                 },
                 "from": {
-                    "file": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\values-ar\\values-ar.xml",
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -272,12 +272,12 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1452,
+                    "startOffset": 1497,
                     "endColumn": 107,
-                    "endOffset": 1555
+                    "endOffset": 1600
                 },
                 "from": {
-                    "file": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\values-ar\\values-ar.xml",
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -291,12 +291,12 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1560,
+                    "startOffset": 1605,
                     "endColumn": 102,
-                    "endOffset": 1658
+                    "endOffset": 1703
                 },
                 "from": {
-                    "file": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\values-ar\\values-ar.xml",
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -310,12 +310,12 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1663,
+                    "startOffset": 1708,
                     "endColumn": 102,
-                    "endOffset": 1761
+                    "endOffset": 1806
                 },
                 "from": {
-                    "file": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\values-ar\\values-ar.xml",
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -329,12 +329,12 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1766,
+                    "startOffset": 1811,
                     "endColumn": 118,
-                    "endOffset": 1880
+                    "endOffset": 1925
                 },
                 "from": {
-                    "file": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\values-ar\\values-ar.xml",
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -348,12 +348,12 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1885,
+                    "startOffset": 1930,
                     "endColumn": 96,
-                    "endOffset": 1977
+                    "endOffset": 2022
                 },
                 "from": {
-                    "file": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\values-ar\\values-ar.xml",
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -367,12 +367,31 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1982,
-                    "endColumn": 80,
-                    "endOffset": 2058
+                    "startOffset": 2027,
+                    "endColumn": 51,
+                    "endOffset": 2074
                 },
                 "from": {
-                    "file": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\values-ar\\values-ar.xml",
+                    "file": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/sirenlibrary/build/intermediates/bundles/default/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 51,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2079,
+                    "endColumn": 80,
+                    "endOffset": 2155
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -384,20 +403,96 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2063,
-                    "endColumn": 100,
-                    "endOffset": 2159
+                    "startOffset": 2160,
+                    "endColumn": 64,
+                    "endOffset": 2220
                 },
                 "from": {
-                    "file": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\values-ar\\values-ar.xml",
+                    "file": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/sirenlibrary/build/intermediates/bundles/default/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 64,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2225,
+                    "endColumn": 100,
+                    "endOffset": 2321
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/values-ar/values-ar.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
                         "startOffset": 2063,
                         "endColumn": 100,
                         "endOffset": 2159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2326,
+                    "endColumn": 40,
+                    "endOffset": 2362
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/sirenlibrary/build/intermediates/bundles/default/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 40,
+                        "endOffset": 253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2367,
+                    "endColumn": 161,
+                    "endOffset": 2524
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/sirenlibrary/build/intermediates/bundles/default/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 258,
+                        "endColumn": 161,
+                        "endOffset": 415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2529,
+                    "endColumn": 58,
+                    "endOffset": 2583
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/sirenlibrary/build/intermediates/bundles/default/res/values-ar/values-ar.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 420,
+                        "endColumn": 58,
+                        "endOffset": 474
                     }
                 }
             }

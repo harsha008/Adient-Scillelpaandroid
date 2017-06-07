@@ -1,10 +1,10 @@
 [
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/mipmap-xxxhdpi/ic_launcher_adient.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/mipmap-xxxhdpi/ic_launcher_adient.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\mipmap-xxxhdpi\\ic_launcher_adient.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_adient.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     }
 ]

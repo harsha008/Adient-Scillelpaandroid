@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="lt.sciil.eLPA.dev.test" >
+    package="lt.adient.mobility.eLPA.test" >
 
     <uses-sdk
         android:minSdkVersion="21"
@@ -10,8 +10,8 @@
         android:name="android.support.test.runner.AndroidJUnitRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for lt.sciil.eLPA.dev"
-        android:targetPackage="lt.sciil.eLPA.dev" />
+        android:label="Tests for lt.adient.mobility.eLPA"
+        android:targetPackage="lt.adient.mobility.eLPA" />
 
     <application>
         <uses-library android:name="android.test.runner" />

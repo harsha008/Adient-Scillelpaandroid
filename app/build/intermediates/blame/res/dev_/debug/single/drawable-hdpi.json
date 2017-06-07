@@ -1,18 +1,18 @@
 [
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable-hdpi\\arrow_down.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable-hdpi\\arrow_down.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable-hdpi/unchecked.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable-hdpi/unchecked.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable-hdpi\\refresh.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable-hdpi\\refresh.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable-hdpi/arrow_down.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable-hdpi/arrow_down.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable-hdpi\\unchecked.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable-hdpi\\unchecked.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable-hdpi/checked.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable-hdpi/checked.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable-hdpi\\checked.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable-hdpi\\checked.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable-hdpi/refresh.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable-hdpi/refresh.png"
     }
 ]

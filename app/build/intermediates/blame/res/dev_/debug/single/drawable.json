@@ -1,342 +1,342 @@
 [
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\ic_info_outline_black_24px.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\ic_info_outline_black_24px.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/logo.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/logo.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/sciil_pattern.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/sciil_pattern.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/gender_neutral.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/gender_neutral.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/ripple_accent.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/ripple_accent.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_vector_test.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\image_512px.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\image_512px.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/dashboard.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/dashboard.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\connected.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\connected.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/edit_text_background.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/edit_text_background.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\bandage_64px.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\bandage_64px.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/bandage_ok_64px.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/bandage_ok_64px.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\camera.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\camera.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/ic_signal_wifi_off_white_24px.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/ic_signal_wifi_off_white_24px.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\af8607f018e585973a67df2a90c62b7b9ef905c9\\output\\res\\drawable\\design_fab_background.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\sciil_logo.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\sciil_logo.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/custom_ok.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/custom_ok.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/discard.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/discard.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_ic_search_api_material.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\offline.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\offline.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_vector_test.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/save.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/save.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\delete.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\delete.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/5ef1ca52ecd8fcd18cb9ce8cd32ce15078c2af19/output/res/drawable/design_snackbar_background.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\filter.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\filter.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/marker.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/marker.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\key.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\key.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\disconnected.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\disconnected.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\ic_check_black_24px.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\ic_check_black_24px.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/notification_bg.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\ic_settings_applications_black_24dp.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\ic_settings_applications_black_24dp.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/ic_cloud_upload_black_24px.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/ic_cloud_upload_black_24px.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\af8607f018e585973a67df2a90c62b7b9ef905c9\\output\\res\\drawable\\navigation_empty_icon.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\ok.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\ok.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/sciil_logo.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/sciil_logo.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\save.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\save.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\ic_signal_wifi_off_white_24px.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\ic_signal_wifi_off_white_24px.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/design_fab_background.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/5ef1ca52ecd8fcd18cb9ce8cd32ce15078c2af19/output/res/drawable/design_fab_background.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/notification_bg_low.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/camera.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/camera.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\ripple_accent.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\ripple_accent.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/ic_filter_list_black_24px.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/ic_filter_list_black_24px.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\selectable_item_background.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\selectable_item_background.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/offline.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/offline.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\gender_neutral.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\gender_neutral.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/notification_tile_bg.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\notification_bg_low.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/online.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/online.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/ic_check_black_24px.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/ic_check_black_24px.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\edit_text_style.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\edit_text_style.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/ic_arrow_back_black_24px.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/ic_arrow_back_black_24px.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/ic_camera_alt_black_24px.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/ic_camera_alt_black_24px.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\circle.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\circle.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\cancel.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\cancel.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\dashboard.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\dashboard.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/ic_room_black_24px.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/ic_room_black_24px.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\logo.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\logo.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_seekbar_track_material.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/filter.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/filter.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/ic_build_green_24px.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/ic_build_green_24px.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/app_background.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/app_background.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\app_background.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\app_background.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\custom_ok.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\custom_ok.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_ratingbar_material.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\online.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\online.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/ic_build_black_24px.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/ic_build_black_24px.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\ic_build_black_24px.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\ic_build_black_24px.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\info.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\info.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_dialog_material_background.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/selectable_item_background.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/selectable_item_background.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/5ef1ca52ecd8fcd18cb9ce8cd32ce15078c2af19/output/res/drawable/navigation_empty_icon.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\custom_checkbox.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\custom_checkbox.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/cancel.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/cancel.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\notification_icon_background.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/delete.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/delete.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/circle.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/circle.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/ic_cancel_black_24px.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/ic_cancel_black_24px.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\ic_signal_wifi_4_bar_white_24px.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\ic_signal_wifi_4_bar_white_24px.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/disconnected.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/disconnected.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/ok.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/ok.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\edit_text_background.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\edit_text_background.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\ic_cancel_black_24px.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\ic_cancel_black_24px.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/ic_signal_wifi_4_bar_white_24px.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/ic_signal_wifi_4_bar_white_24px.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\ic_filter_list_black_24px.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\ic_filter_list_black_24px.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\ic_cloud_upload_black_24px.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\ic_cloud_upload_black_24px.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/ic_clear_black_24px.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/ic_clear_black_24px.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\sciil_pattern.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\sciil_pattern.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/ic_settings_applications_black_24dp.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/ic_settings_applications_black_24dp.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\ic_camera_alt_black_24px.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\ic_camera_alt_black_24px.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/edit_text_style.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/edit_text_style.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\ic_arrow_back_black_24px.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\ic_arrow_back_black_24px.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/delete_64px.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/delete_64px.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/connected.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/connected.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\discard.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\discard.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/info.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/info.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\delete_64px.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\delete_64px.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/camera_512px.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/camera_512px.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\ic_clear_black_24px.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\ic_clear_black_24px.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/custom_checkbox.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/custom_checkbox.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\camera_512px.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\camera_512px.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\bandage_ok_64px.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\bandage_ok_64px.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/notification_icon_background.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\marker.png",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\marker.png"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/image_512px.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/image_512px.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\af8607f018e585973a67df2a90c62b7b9ef905c9\\output\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_ic_clear_material.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\ic_build_green_24px.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\ic_build_green_24px.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/bandage_64px.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/bandage_64px.png"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/ic_info_outline_black_24px.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/ic_info_outline_black_24px.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\MinvydasG\\.android\\build-cache\\edebb2ab146e2c41d503f1e77cceb32db07517ff\\output\\res\\drawable\\notification_bg.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/67eee744704cd99119818c9ea6daf6c181f454d3/output/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\build\\intermediates\\res\\merged\\dev_\\debug\\drawable\\ic_room_black_24px.xml",
-        "source": "D:\\@DEV\\Mobile\\sciil-elpa\\app\\src\\main\\res\\drawable\\ic_room_black_24px.xml"
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/build/intermediates/res/merged/dev_/debug/drawable/key.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-eLPAAndroid/app/src/main/res/drawable/key.png"
     }
 ]
